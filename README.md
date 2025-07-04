@@ -15,7 +15,7 @@ To explore customer data using unsupervised learning and:
 
 ---
 
-## Task 8 Overview
+## Overview
 
 This implementation follows the exact steps required by the task:
 
